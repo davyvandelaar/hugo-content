@@ -1,3 +1,6 @@
 [submodule "themes/binario"]
 	path = themes/binario
 	url = https://github.com/vimux/binario
+[submodule "public"]
+	path = public
+	url = git@github.com:davyvandelaar/davyvandelaar.github.io.git
